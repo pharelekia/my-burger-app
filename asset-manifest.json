@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.js": "/my-burger-app/static/js/main.5d422eb9.js",
+    "static/media/b2.png": "/my-burger-app/static/media/b2.0a0ae602a4bf74df4bed.png",
+    "static/media/bo1.png": "/my-burger-app/static/media/bo1.17f852d1c022caa16bcb.png",
+    "static/media/bo2.png": "/my-burger-app/static/media/bo2.75a73dec5d8931e38494.png",
+    "static/media/b3.png": "/my-burger-app/static/media/b3.499bcfb60fbb54f9e3c7.png",
+    "static/media/s5.png": "/my-burger-app/static/media/s5.ab67a2894406cd45440f.png",
+    "static/media/b6.png": "/my-burger-app/static/media/b6.a4e9a2f05982b74c5dcf.png",
+    "static/media/s4.png": "/my-burger-app/static/media/s4.fed797b5fcf9693f72d9.png",
+    "static/media/b1.png": "/my-burger-app/static/media/b1.e98b0bdf243a5e376fbb.png",
+    "static/media/b4.png": "/my-burger-app/static/media/b4.8b44152952b1dd313cce.png",
+    "static/media/s3.png": "/my-burger-app/static/media/s3.d0e398199393f2a511c5.png",
+    "static/media/bo4.png": "/my-burger-app/static/media/bo4.8a40be85d0724bacbecc.png",
+    "static/media/sa3.png": "/my-burger-app/static/media/sa3.59cd6b903c11ee8c337a.png",
+    "static/media/m6.png": "/my-burger-app/static/media/m6.3e2151b1a32a75668e5d.png",
+    "static/media/sa2.png": "/my-burger-app/static/media/sa2.2ddb8bd82f5072bd26ca.png",
+    "static/media/b5.png": "/my-burger-app/static/media/b5.33bf40d56179243e4a48.png",
+    "static/media/m2.png": "/my-burger-app/static/media/m2.9e5a10ee341513623eb4.png",
+    "static/media/sa1.png": "/my-burger-app/static/media/sa1.7b123814b92fe900246d.png",
+    "static/media/m1.png": "/my-burger-app/static/media/m1.29b420c8dbf71d17d308.png",
+    "static/media/bo5.png": "/my-burger-app/static/media/bo5.69a38168e64ec29cd6e0.png",
+    "static/media/sa5.png": "/my-burger-app/static/media/sa5.ca5af9a7fffe29bda232.png",
+    "static/media/m4.png": "/my-burger-app/static/media/m4.4c540b656f978099cbe1.png",
+    "static/media/m3.png": "/my-burger-app/static/media/m3.bfa6654baa2fa2f4cc3e.png",
+    "static/media/m5.png": "/my-burger-app/static/media/m5.9ad9b802f7fe00ba745f.png",
+    "static/media/bo3.png": "/my-burger-app/static/media/bo3.bbdb41e57a82b8ada208.png",
+    "static/media/d5.png": "/my-burger-app/static/media/d5.c8c783178b8729163c0a.png",
+    "static/media/d1.png": "/my-burger-app/static/media/d1.91e6e4dd8612f1acb4cb.png",
+    "static/media/d3.png": "/my-burger-app/static/media/d3.0068dbc113679a11fe58.png",
+    "static/media/bo6.png": "/my-burger-app/static/media/bo6.5259622fa1d6dba5b219.png",
+    "static/media/d2.png": "/my-burger-app/static/media/d2.d6b1c8b8e2173e7433ca.png",
+    "static/media/s2.png": "/my-burger-app/static/media/s2.61177c82236897410e80.png",
+    "static/media/d4.png": "/my-burger-app/static/media/d4.2057063cad9fc10074c6.png",
+    "static/media/logo.png": "/my-burger-app/static/media/logo.54317053e245c985f3de.png",
+    "static/media/s1.png": "/my-burger-app/static/media/s1.38e7fd6a0598ae4c5158.png",
+    "index.html": "/my-burger-app/index.html",
+    "main.5d422eb9.js.map": "/my-burger-app/static/js/main.5d422eb9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d422eb9.js"
+  ]
+}
