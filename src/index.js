@@ -27,7 +27,7 @@ root.render(
       <GlobalStyle/>
       <Header/>
       <Routes>
-        <Route path='/' element={<Menu/>}/>
+        <Route path='/my-burger-app' element={<Menu/>}/>
         <Route path='/burger' element={<Burger/>}/>
         <Route path='/snack' element={<Snack/>}/>
         <Route path='/salade' element={<Salade/>}/>

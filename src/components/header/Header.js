@@ -39,7 +39,7 @@ function Header () {
             <LogoImage src={logo} alt="logo-restaurant"/>
         </div>
         <nav>
-            <Navbar to="/">Menus</Navbar>
+            <Navbar to="my-burger-app">Menus</Navbar>
             <Navbar to="burger">Burgers</Navbar>
             <Navbar to="snack">Snacks</Navbar>
             <Navbar to="salade">Salades</Navbar>
