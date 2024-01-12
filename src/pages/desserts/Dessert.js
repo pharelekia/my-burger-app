@@ -24,6 +24,11 @@ const CardBloc = styled.div`
     height: 140vh;
     margin: auto;
     margin-top: 50px;
+
+    @media screen and (max-width: 768px){
+        display: flex;
+        flex-direction: column;
+    }
 `
 
 function Dessert () {

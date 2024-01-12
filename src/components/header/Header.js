@@ -10,6 +10,11 @@ const MyHeader = styled.div`
     align-items: center;
     border-bottom: 1px solid #dfc24d;
     height: 20vh;
+
+    @media screen and (max-width: 768px){
+        flex-direction: column;
+    }
+
 `
 const Navbar = styled(Link)`
     text-decoration: none;
