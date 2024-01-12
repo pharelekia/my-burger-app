@@ -1,17 +1,40 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Menu from './pages/menus/Menu';
+import Burger from './pages/burgers/Burger';
+import Header from './components/header/Header';
+import Snack from './pages/snacks/Snack';
+import Salade from './pages/salades/Salade';
+import Boisson from './pages/boissons/Boisson';
+import Dessert from './pages/desserts/Dessert';
+import { createGlobalStyle } from 'styled-components';
+
+const GlobalStyle = createGlobalStyle`
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+`
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <GlobalStyle/>
+      <Header/>
+      <Routes>
+        <Route path='/' element={<Menu/>}/>
+        <Route path='/burger' element={<Burger/>}/>
+        <Route path='/snack' element={<Snack/>}/>
+        <Route path='/salade' element={<Salade/>}/>
+        <Route path='/boisson' element={<Boisson/>}/>
+        <Route path='/dessert' element={<Dessert/>}/>
+      </Routes>
+    </Router>
   </React.StrictMode>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
